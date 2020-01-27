@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Edited by XMLSpy® -->
+<CATALOG>
+	<STUDENT>
+		<NAME>Mahlet Gebre</NAME>
+		<MAJOR>Politics</MAJOR>
+		<GRADE>3</GRADE>
+		
+	</STUDENT>
+	<STUDENT>
+		<NAME>Yared Solomon</NAME>
+		<MAJOR>Maths</MAJOR>
+		<GRADE>2.9</GRADE>
+	</STUDENT>
+	<STUDENT>
+		<NAME>Fikir Zewde</NAME>
+		<MAJOR>Software Engineering</MAJOR>
+		<GRADE>3.2</GRADE>
+	</STUDENT>
+	<STUDENT>
+		<NAME>Micheal Girma</NAME>
+		<MAJOR>Economics</MAJOR>
+		<GRADE>2.6</GRADE>
+	</STUDENT>
+	<STUDENT>
+		<NAME>Noka Gebste</NAME>
+		<MAJOR>Economics</MAJOR>
+		<GRADE>3.9</GRADE>
+	</STUDENT>
+	<STUDENT>
+		<NAME>Isreal Tariku</NAME>
+		<MAJOR>Litrature</MAJOR>
+		<GRADE>3.3</GRADE>
+	</STUDENT>
+	<STUDENT>
+		<NAME>Bob Dylan</NAME>
+		<MAJOR>Mechanical Engineering</MAJOR>
+		<GRADE>2.7</GRADE>
+	</STUDENT>
+	<STUDENT>
+		<NAME>Empire Burlesque</NAME>
+		<MAJOR>English</MAJOR>
+		<GRADE>3.3</GRADE>
+	</STUDENT>
+	<STUDENT>
+		<NAME>Burlesque</NAME>
+		<MAJOR>Art</MAJOR>
+		<GRADE>4</GRADE>
+	</STUDENT>
+	<STUDENT>
+		<NAME>Tom Burlesque</NAME>
+		<MAJOR>Physics</MAJOR>
+		<GRADE>3.2</GRADE>
+	</STUDENT>
+	<STUDENT>
+		<NAME>	Olivia</NAME>
+		<MAJOR>English</MAJOR>
+		<GRADE>3.0</GRADE>
+	</STUDENT>
+	<STUDENT>
+		<NAME>Isla Burlesque</NAME>
+		<MAJOR>Maths</MAJOR>
+		<GRADE>2.3</GRADE>
+	</STUDENT>
+	<STUDENT>
+		<NAME>Emily Burlesque</NAME>
+		<MAJOR>Science</MAJOR>
+		<GRADE>2.5</GRADE>
+	</STUDENT>
+	<STUDENT>
+		<NAME>Poppy Burlesque</NAME>
+		<MAJOR>Language</MAJOR>
+		<GRADE>3.2</GRADE>
+	</STUDENT>
+	<STUDENT>
+		<NAME>Mia Burlesque</NAME>
+		<MAJOR>Maths</MAJOR>
+		<GRADE>4.0</GRADE>
+	</STUDENT>
+
+</CATALOG>
